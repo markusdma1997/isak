@@ -1,0 +1,9 @@
+.two-column-layout {
+    display: flex; /* Use Flexbox */
+}
+
+.column {
+    flex: 1; /* Each column takes equal space */
+    padding: 20px;
+    border: 1px hidden #ccc;
+}

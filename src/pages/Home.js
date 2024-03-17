@@ -23,7 +23,7 @@ function Home() {
                 Epipremnum - Marble Green
             </h4>
             <h4>
-                Philodendron P. Verrucosum
+                Philodendron - P. Verrucosum
             </h4>
         </div>
     );
